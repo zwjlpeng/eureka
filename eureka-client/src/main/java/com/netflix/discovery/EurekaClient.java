@@ -22,7 +22,7 @@ import com.netflix.discovery.shared.LookupService;
  * EurekaClient API contracts are:
  *  - provide the ability to get InstanceInfo(s) (in various different ways)
  *  - provide the ability to get data about the local Client (known regions, own AZ etc)
- *  - provide the ability to register and access the healthcheck handler for the client
+ *  - provide the ability to register and access the health check handler for the client
  *
  * @author David Liu
  */
